@@ -124,7 +124,7 @@ Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas
 
 <p>
   <img 
@@ -142,4 +142,4 @@ Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
