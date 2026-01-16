@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 # 👨‍💻 Vitor Noms
 
 **`Desenvolvedor FullStack`**
@@ -95,14 +97,20 @@ Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-
-<img align="left" 
+<i class="devicon-github-original"
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    ></i>
+<!-- <img align="left" 
     alt="Github" 
     title="Github"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+/> -->
 
 <img align="left" 
     alt="Figma" 
