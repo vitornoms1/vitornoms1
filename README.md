@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Noms
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SENAC, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unilasalle. Sou apaixonado por tecnologia, adoro criar projetos web, no meu portfólio você pode ver todos projetos que já fiz, "[Vitor's Portfolio](https://my-portfolio-rho-five-97.vercel.app/)".
 
@@ -86,6 +86,30 @@ Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img align="left" 
+    alt="C Sharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
 <br/>
