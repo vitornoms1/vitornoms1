@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vitor Noms Kuhn, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SENAC, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unilasalle. Sou apaixonado por tecnologia, adoro criar projetos web, no meu portfólio você pode ver todos projetos que já fiz, "[Vitor's Portfolio](https://my-portfolio-rho-five-97.vercel.app/)".
+I am Vitor Noms Kuhn, an 18-year-old Software Engineering student at Unilasalle, originally from Rio Grande do Sul. I hold a Technical Degree in IT from SENAC. Driven by a passion for technology and web development, I enjoy bringing ideas to life through code. You can check out my full range of projects in my portfolio: "[Vitor's Portfolio](https://my-portfolio-rho-five-97.vercel.app/)".
 
 ---
 
