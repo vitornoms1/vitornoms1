@@ -127,7 +127,7 @@ I am Vitor Noms Kuhn, an 18-year-old Software Engineering student at Unilasalle,
     title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://www.svgrepo.com/show/475654/github-color.svg" 
 />
 <img align="left" 
     alt="Figma" 
